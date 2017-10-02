@@ -1,0 +1,5 @@
+Concept Questions
+
+1.  What is Kruskal's Algorithm efficiency?   =   O(E logE).
+2.  What is a minimal spanning tree?  = All nodes in a graph are connected by smallest weighted edges without making a cycle.
+3.  How can you check for a cycle?  = Either Breadth First Search or Depth First Search.
